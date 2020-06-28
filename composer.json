@@ -18,8 +18,8 @@
         "source": "https://github.com/marknl/iodef"
     },
     "require": {
-        "php": ">=7.0",
-        "sabre/xml": "~2.0.0",
+        "php": ">=7.4",
+        "sabre/xml": "~2.2.0",
         "vlucas/valitron": "~1.4.2"
     },
     "autoload": {
