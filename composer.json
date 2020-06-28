@@ -1,5 +1,5 @@
 {
-    "name": "marknl/iodef",
+    "name": "abuseio/iodef",
     "description": "Library for parsing IODEF in PHP",
     "keywords": ["iodef", "rfc5070"],
     "homepage": "http://e-rave.nl/iodef",
